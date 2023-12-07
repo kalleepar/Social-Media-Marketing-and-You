@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-    padding: 20px;
+    padding: 0px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
@@ -17,7 +17,8 @@ body {
 
 .header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 80px;
+    padding-left: 70px;
 }
 
 .header h1 .seo {
@@ -25,11 +26,11 @@ body {
 }
 
 .header div {
-    padding-top: 15px;
-    margin-right: 20px;
+    padding-top: 50px;
+    margin-right: 85px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 32px;
 }
 
 .header div ul {
