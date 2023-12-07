@@ -48,7 +48,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 24px;
 }
 
 .hero {
@@ -105,6 +105,8 @@ p {
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-weight: bolder;
+    text-size-adjust: ;
 }
 
 .benefit-brand h3 {
@@ -163,30 +165,30 @@ p {
 }
 
 .search-engine-optimization img {
-    max-height: 200px;
+    max-height: 300px;
 }
 
 .online-reputation-management img {
-    max-height: 200px;
+    max-height: 300px;
 }
 
 .social-media-marketing img {
-    max-height: 200px;
+    max-height: 300px;
 }
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 50px;
 }
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 50px;
 }
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 50px;
 }
 
 .footer {
