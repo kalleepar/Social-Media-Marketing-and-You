@@ -200,3 +200,17 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+@media screen and (max-width: 992px) {
+    .card {
+      width: 50%;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .card {
+      width: 100%;
+    }
+ 
+
+  }
